@@ -36,4 +36,5 @@ etherscan: {
   // Obtain one at https://etherscan.io/
   apiKey: 'DMCNJ8IB7Q1C91ZQKDAFEAHY5C514DKMMI'
 },
-}
+};
+
